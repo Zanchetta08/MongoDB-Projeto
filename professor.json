@@ -1,0 +1,12 @@
+{
+    "_id" : ObjectId("6328e96de2a1731d6f965ef7"),
+    "nome" : "Leandro",
+    "sobrenome" : "Alonso Xastre",
+    "rp" : "090631"
+}
+{
+    "_id" : ObjectId("6328e96de2a1731d6f965ef8"),
+    "nome" : "Ricardo",
+    "sobrenome" : "Pannain",
+    "rp" : "506070"
+}
